@@ -3,9 +3,22 @@
 
 * No Man's Land
 ** <2020-07-16 Thu 13:13>
-=Albeit interesting=
+=Albeit interesting=  
 ~print('Mayhem')~
+ : this is what I've been talking about
+ all these apparently
 
+- havn't noticed
+  this seems fine
+- Isn't it secure
+- secure precaution
+
+
+
+#+BEGIN_QUOTE
+* oh christ
+*** anyone done something?
+#+END_QUOTE
 
 ** Version Control
 *npm start*
