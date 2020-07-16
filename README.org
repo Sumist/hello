@@ -1,11 +1,14 @@
+
+#+TITLE: ANONYMOUS
+
 * No Man's Land
 ** <2020-07-16 Thu 13:13>
-= Albeit interesting... =
-~ print('Mayhem') ~
+=Albeit interesting=
+~print('Mayhem')~
 
 
 ** Version Control
-npm start
+*npm start*
 #+BEGIN_SRC
 const pkg = require("../package.json");
 const TemplatePath = require("./TemplatePath");
